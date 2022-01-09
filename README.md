@@ -9,6 +9,7 @@ This is a solution to the [Huddle landing page with single introductory section 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
@@ -22,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-single-introductory-section-html-css-flexbox-EOLt40gfH)
+- Live Site URL: [Vercel](https://huddle-landing-page-with-single-introductory-section-mas-obaryo.vercel.app/)
 
 ## My process
 
@@ -33,6 +34,10 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+
+### What I learned
+
+It's my first time using `aria-label` and I will probably use it in the future.
 
 ## Author
 
